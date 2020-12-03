@@ -3,7 +3,7 @@ This project utilizes keras and tensorflow to train a CNN model to classify imag
 I achieved a 98% accuracy with this model. 
 This repo. also contains the code for a GUI made using tkinter to classify the images. 
 And another file wich can be used to use the webcan to detect the traffic signs.
-The data set for the project can be found in the following link: https://www.kaggle.com/melvinpauljacob/cat-dog-dataset Unzip the rar file before use. 
+The data set for the project can be found in the following link: https://www.kaggle.com/melvinpauljacob/traffic-sign-classifier Unzip the rar file before use. 
 Before running the code download the following libraries: 
 1.Keras 
 2.Tensorflow 2.0 or greater 
